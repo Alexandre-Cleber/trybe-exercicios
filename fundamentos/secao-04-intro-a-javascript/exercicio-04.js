@@ -1,15 +1,13 @@
-const a = 25;
-const b = 64;
+const a = 7;
+const b = 9;
+const c = 26;
 
-//console.log(a + b);
-//console.log(a - b);
-//console.log(a * b);
-//console.log(a / b);
-//console.log(a % b);
-
-if (a > b){
-    console.log("'a' é maior que 'b'");
+if (a > b && a > c){
+console.log('O maior numero é :' + 'a')
 }
-else {
-console.log ("'b' é maior que 'a'");
+else if(b > a && b > c) {
+    console.log ('O mair numero é :' + 'b')
+}
+else{
+    console.log('O maior numero é :' + 'c')
 }
