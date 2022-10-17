@@ -1,5 +1,5 @@
 //Modifique a estrutura da função para que ela seja uma arrow function;*
-//Modifique as variáveis para que respeitem o escopo onde estão declaradas;
+//Modifique as variáveis para que respeitem o escopo onde estão declaradas;*
 //Modifique as concatenações para template literals.
 
 
